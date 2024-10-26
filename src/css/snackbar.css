@@ -1,0 +1,36 @@
+
+.form{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;  
+}
+
+.delay{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    font-size: 20px;
+}
+
+.state{
+    display: flex;
+    justify-content: center;
+    width: 320px;
+    padding: 0 0 5px 0;
+    border: 1px solid black;
+    font-size: 20px;
+}
+
+.delay-inp {
+    width: 310px;
+    padding: 5px;
+    border: 1px solid black;
+}
+
+.snack-btn{
+    width: 320px;
+    padding: 5px;
+    font-size: 15px;
+}
